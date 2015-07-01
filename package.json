@@ -1,0 +1,19 @@
+{
+  "name": "arch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsx-loader": "^0.13.2"
+  },
+  "dependencies": {
+    "express": "^4.13.0",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3"
+  }
+}
